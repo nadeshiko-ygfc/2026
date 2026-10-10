@@ -4,12 +4,6 @@ input#ff-num {
 }
 
 
-input#hd-num {
-    width: 3em;
-    text-align: right;
-}
-
-
 input#ok-num {
     width: 3em;
     text-align: right;
@@ -91,22 +85,11 @@ div {
 }
 
 .button-fr {
-    background-color: rgb(195, 151, 229);
-    color: white;
-    border-color: rgb(195, 151, 229);
-}
-.button-fr:hover {
-    background-color: rgb(195, 151, 229);
-    color: white;
-    border-color: rgb(195, 151, 229);   
-}
-
-.button-hd {
     background-color: yellow;
     color: black;
     border-color: yellow;
 }
-.button-hd:hover {
+.button-fr:hover {
     background-color: yellow;
     color: black;
     border-color: yellow;
