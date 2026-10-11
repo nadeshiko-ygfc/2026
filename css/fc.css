@@ -108,23 +108,23 @@ div {
 
 .button-kr {
     background-color: #a4e297;
-    color: white;
+    color: black;
     border-color: #a4e297;
 }
 .button-kr:hover {
     background-color: #a4e297;
-    color: white;
+    color: black;
     border-color: #a4e297;
 }
 
 .button-sui {
     background-color: #78d6fc;
-    color: white;
+    color: black;
     border-color: #78d6fc;
 }
 .button-sui:hover {
     background-color: #78d6fc;
-    color: white;
+    color: black;
     border-color: #78d6fc;
 }
 
