@@ -85,47 +85,47 @@ div {
 }
 
 .button-fr {
-    background-color: yellow;
+    background-color: #f2e0bc;
     color: black;
-    border-color: yellow;
+    border-color: #f2e0bc;
 }
 .button-fr:hover {
-    background-color: yellow;
+    background-color: #f2e0bc;
     color: black;
-    border-color: yellow;
+    border-color: #f2e0bc;
 }
 
 .button-ok {
-    background-color: #ff9e8c;
+    background-color: #f9afbc;
     color: black;
-    border-color: #ff9e8c;
+    border-color: #f9afbc;
 }
 .button-ok:hover {
-    background-color: #ff9e8c;
+    background-color: #f9afbc;
     color: black;
-    border-color: p#ff9e8c;
+    border-color: #f9afbc;
 }
 
 .button-kr {
-    background-color: #58d34b;
+    background-color: #a4e297;
     color: white;
-    border-color: #58d34b;
+    border-color: #a4e297;
 }
 .button-kr:hover {
-    background-color: #58d34b;
+    background-color: #a4e297;
     color: white;
-    border-color: #58d34b;
+    border-color: #a4e297;
 }
 
 .button-sui {
-    background-color: rgb(121, 172, 206);
+    background-color: #78d6fc;
     color: white;
-    border-color: rgb(121, 172, 206);
+    border-color: #78d6fc;
 }
 .button-sui:hover {
-    background-color: rgb(121, 172, 206);
+    background-color: #78d6fc;
     color: white;
-    border-color: rgb(121, 172, 206);
+    border-color: #78d6fc;
 }
 
 
